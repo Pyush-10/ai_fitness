@@ -16,7 +16,7 @@ const Footer = () => {
                 <ZapIcon className="w-4 h-4 text-primary" />
               </div>
               <span className="text-xl font-bold font-mono">
-                AI<span className="text-primary">Fitness</span>
+                AI<span className="text-primary">Fitness</span>cc
               </span>
             </Link>
             <p className="text-sm text-muted-foreground">
